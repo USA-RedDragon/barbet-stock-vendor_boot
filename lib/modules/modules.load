@@ -1,5 +1,6 @@
 msm_ipc_logging.ko
 qcom-pdc.ko
+dm-user.ko
 phy-qcom-ufs.ko
 phy-qcom-ufs-qrbtc-sdm845.ko
 phy-qcom-ufs-qmp-v4.ko
@@ -132,7 +133,9 @@ dwc3-of-simple.ko
 dwc3-qcom.ko
 usb-dwc3-msm.ko
 roles.ko
+touch_offload.ko
 touchscreen_tbn.ko
+heatmap.ko
 qpnp-power-on.ko
 vd6281_module.ko
 fpc1020_platform_tee.ko
@@ -163,7 +166,6 @@ cpu_isolate.ko
 lmh_cpu_vdd_cdev.ko
 qcom-spmi-temp-alarm.ko
 thermal-tsens.ko
-dm-user.ko
 bluetooth_power.ko
 qcom_edac.ko
 qcom-cpufreq-hw.ko

@@ -70,6 +70,7 @@
 /lib/modules/rpmh-regulator.ko: /lib/modules/qcom_rpmh.ko /lib/modules/cmd-db.ko /lib/modules/msm_ipc_logging.ko
 /lib/modules/governor_memlat.ko:
 /lib/modules/qmi_helpers.ko:
+/lib/modules/heatmap.ko:
 /lib/modules/llcc-lito.ko: /lib/modules/llcc-slice.ko
 /lib/modules/msm_dma_iommu_mapping.ko:
 /lib/modules/qcom-geni-se.ko: /lib/modules/msm_bus.ko /lib/modules/msm_ipc_logging.ko
@@ -122,6 +123,7 @@
 /lib/modules/msm_bus_rpmh.ko: /lib/modules/qcom_rpmh.ko /lib/modules/msm_bus.ko /lib/modules/cmd-db.ko /lib/modules/msm_ipc_logging.ko
 /lib/modules/rpmsg_core.ko:
 /lib/modules/qcom_glink_native.ko: /lib/modules/rpmsg_core.ko /lib/modules/msm_ipc_logging.ko /lib/modules/subsystem_notif.ko
+/lib/modules/touch_offload.ko:
 /lib/modules/msm_gsi.ko: /lib/modules/msm_ipc_logging.ko
 /lib/modules/qcom-vadc-common.ko:
 /lib/modules/rmnet.ko: /lib/modules/qmi_helpers.ko
